@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-khula: Khula;
+  --font-khmer: Khmer;
+  --font-kokoro: Kokoro;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-dimgray: #6b6565;
+  --color-seagreen: #5f9f55;
+  --color-white: #fff;
+  --color-gray: #281d1d;
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-21xl: 40px;
+  --padding-20xl: 39px;
+  --padding-17xl: 36px;
+  --padding-xl: 20px;
+  --padding-45xl: 64px;
+  --padding-27xl: 46px;
+
+  /* Border radiuses */
+  --br-18xl: 37px;
+  --br-34xl: 53px;
+  --br-22xl: 41px;
+}

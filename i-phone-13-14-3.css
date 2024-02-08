@@ -1,0 +1,123 @@
+.frame-item {
+  align-self: stretch;
+  height: 589px;
+  position: relative;
+  border-radius: var(--br-22xl);
+  background-color: var(--color-seagreen);
+}
+.bring-its-just,
+.dont-know-why,
+.from-my-coolest,
+.from-my-whole,
+.havent-spent-lots,
+.lots-about-each,
+.manakamana-temple-i,
+.nergetic-talking-to,
+.nice-thats-what,
+.p,
+.p1,
+.person-with-whom,
+.really-comfortable-and,
+.so-energetic-after,
+.together-nor-do,
+.vibe-the-topics,
+.when-we-traveled,
+.you-might-be {
+  margin: 0;
+}
+.nice-thats-what-container {
+  align-self: stretch;
+  height: 612px;
+  position: relative;
+  display: inline-block;
+  padding-left: var(--padding-xl);
+  padding-right: var(--padding-xl);
+  z-index: 1;
+  margin-top: -566px;
+}
+.rectangle-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-khmer);
+}
+.iphone-13-14-3-inner {
+  position: absolute;
+  top: 102px;
+  left: 43px;
+  width: 311px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.g-o-o1 {
+  position: absolute;
+  top: 50px;
+  left: 98px;
+  white-space: pre-wrap;
+}
+.moretosay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 28px;
+  background-color: #86ff8b;
+  width: 186px;
+  height: 92px;
+  cursor: pointer;
+}
+.there-is-one,
+.thing-to-say {
+  margin: 0;
+}
+.there-is-one-container {
+  position: absolute;
+  top: 12px;
+  left: 16px;
+  z-index: 1;
+}
+.moretosay-parent {
+  align-self: stretch;
+  height: 92px;
+  position: relative;
+}
+.b-e-s1 {
+  width: 182px;
+  height: 28px;
+  position: relative;
+  font-size: 16.3px;
+  color: var(--color-white);
+  white-space: pre-wrap;
+  display: inline-block;
+  padding-left: var(--padding-xl);
+  padding-right: var(--padding-xl);
+}
+.parent-frame1 {
+  position: absolute;
+  top: 713px;
+  left: 102px;
+  width: 186px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 11px;
+  color: var(--color-black);
+}
+.iphone-13-14-3 {
+  width: 100%;
+  height: 844px;
+  position: relative;
+  background-color: var(--color-dimgray);
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-khmer);
+}

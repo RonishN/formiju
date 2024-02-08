@@ -1,0 +1,88 @@
+.frame-title-child {
+  height: 417px;
+  width: 258px;
+  position: relative;
+  border-radius: var(--br-34xl);
+  background-color: var(--color-gray);
+  display: none;
+}
+.advisor-or-some,
+.and-i-am,
+.any-help-or,
+.but-they-say,
+.good-listener-so,
+.great-person-actually,
+.one-of-my,
+.this-video-and,
+.to-me-if,
+.you-know-miju,
+.you-will-feel {
+  margin: 0;
+}
+.you-know-miju-container {
+  height: 264px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.frame-title {
+  height: 417px;
+  border-radius: var(--br-34xl);
+  background-color: var(--color-gray);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-45xl) 6px var(--padding-45xl) 26px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 15px;
+  color: var(--color-white);
+  font-family: var(--font-khula);
+}
+.back,
+.back1 {
+  position: absolute;
+}
+.back {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-18xl);
+  background-color: #5eccdb;
+  width: 119px;
+  height: 47px;
+  cursor: pointer;
+}
+.back1 {
+  top: 11px;
+  left: 39px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-khula);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.back-label {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 119px;
+  height: 47px;
+  position: relative;
+}
+.iphone-13-14-2 {
+  width: 100%;
+  height: 844px;
+  position: relative;
+  background-color: var(--color-dimgray);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 234px var(--padding-xl) 105px;
+  box-sizing: border-box;
+  gap: 41px;
+}

@@ -1,0 +1,91 @@
+.b-e-s {
+  height: 50px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.b-e-s-t-d-a-y-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 19px;
+}
+.parent-frame-child {
+  height: 589px;
+  width: 311px;
+  position: relative;
+  border-radius: var(--br-22xl);
+  background-color: var(--color-seagreen);
+  display: none;
+}
+.and-happy-birthday,
+.best-people-i,
+.dont-lose-that,
+.for-my-coolest,
+.i-dont-know,
+.in-short-youre,
+.meet-again-but,
+.you-are-just {
+  margin: 0;
+}
+.in-short-youre-container {
+  height: 272px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.frame-container,
+.parent-frame {
+  display: flex;
+  align-items: flex-start;
+  text-align: left;
+  font-family: var(--font-khmer);
+}
+.parent-frame {
+  flex: 1;
+  border-radius: var(--br-22xl);
+  background-color: var(--color-seagreen);
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: var(--padding-27xl) 15px var(--padding-27xl) 30px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.frame-container {
+  height: 656px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 17px;
+  font-size: 29.1px;
+  color: var(--color-white);
+}
+.g-o-o {
+  height: 34px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.g-o-o-d-d-a-y-wrapper,
+.iphone-13-14-4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-17xl) 0 0;
+}
+.iphone-13-14-4 {
+  position: relative;
+  background-color: var(--color-dimgray);
+  width: 100%;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 33px var(--padding-21xl) 87px var(--padding-20xl);
+  box-sizing: border-box;
+  gap: 34px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-khmer);
+}
